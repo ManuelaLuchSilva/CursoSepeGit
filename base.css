@@ -2,15 +2,14 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #F05033;
+    background-color: #6a858a;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     width: 80%;
-    border-radius: 10px;
+    border-radius: 6px;
     font-size: 35px;
-    background-color: white;
     text-align: center;
     padding: 10px;
 }
@@ -22,7 +21,7 @@ h1 {
 
 .events {
     width: 80%;
-    background-color:#F05033;
+    background-color:#69898f;
     border-radius: 15px;
     display: flex;
     justify-content: space-around;
